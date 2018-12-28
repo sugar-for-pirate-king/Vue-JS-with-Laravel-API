@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<h2>Articles new</h2>
+		<h2>Articles new 1</h2>
 		<form class="mb-3" @submit.prevent="addArticle">
 			<div class="form-group">
 				<input type="text" class="form-control"  placeholder="title" v-model="article.title">
